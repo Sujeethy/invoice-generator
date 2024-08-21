@@ -24,7 +24,11 @@ This HTML and JavaScript program is designed to generate an invoice, display it 
 - **jspdf**: Library to generate PDF files.
   - Source: `https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js`
 
+![image1](https://github.com/user-attachments/assets/ca0c7c9b-2670-4c58-b2ae-727c2054ab44)
+![image2](https://github.com/user-attachments/assets/aece4544-42c3-4a35-8c9e-7d50aa618232)
+
 ## Implementation Details
+
 
 ### HTML Structure
 - **Header**: Displays the logo and the invoice title.
